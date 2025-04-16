@@ -292,7 +292,7 @@ function playBirthdayAudio() {
   console.log('播放生日祝福音频');
   sounds.birthday.onended = () => {
     console.log('生日祝福音频播放完毕');
-    sounds.background.play(); // 使用正确的背景音乐变量
+    sounds.background.pause(); // 使用正确的背景音乐变量
   };
 }
 function triggerBirthday() {
