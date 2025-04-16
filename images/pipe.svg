@@ -1,0 +1,12 @@
+<svg width="48" height="64" xmlns="http://www.w3.org/2000/svg">
+  <!-- 水管主体 -->
+  <rect x="8" y="16" width="32" height="48" fill="#00AA00"/>
+  <!-- 水管顶部 -->
+  <rect x="4" y="8" width="40" height="8" fill="#00AA00"/>
+  <!-- 水管口 -->
+  <rect x="8" y="16" width="32" height="4" fill="#008800"/>
+  <!-- 水管边缘高光 -->
+  <rect x="8" y="16" width="4" height="48" fill="#00CC00"/>
+  <!-- 水管边缘阴影 -->
+  <rect x="36" y="16" width="4" height="48" fill="#008800"/>
+</svg>
